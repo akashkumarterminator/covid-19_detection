@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 """# TASK 2 : Clone & Explore dataset"""
 
 #clone the dataset from the github repository
-wget "https://github.com/education454/datasets.git"
+! git clone https://github.com/education454/datasets.git
 
 #set the path to the main dir
 
